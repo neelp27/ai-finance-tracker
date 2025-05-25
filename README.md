@@ -13,8 +13,8 @@ Team Members:
 Neel Patel
 
 Links:
-Jira: [DataProject | Board ]
+Jira: https://neelp7203.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMzAyNDgxNDYyNzgyNDM4MmE0MThhZjVlODk4OGIzZGMiLCJwIjoiaiJ9
 
-GitHub: 
+GitHub: https://github.com/neelp27/ai-finance-tracker
 
  
